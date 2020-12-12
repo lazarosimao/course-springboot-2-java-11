@@ -8,3 +8,6 @@
 - Maven
 - H2
 - Postman
+
+### Sobre o projeto:
+- Desenvolver um microservices
